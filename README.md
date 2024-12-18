@@ -15,3 +15,11 @@
 
 ## Tools
 - [Error Prone/Refaster](https://errorprone.info/index)
+
+## IntelliJ Plugins
+- Sonarlint & SonarQube
+- Snyk
+- jSparrow
+- RefactorInsight
+- SpotBugs
+- StepSize
