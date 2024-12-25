@@ -2,10 +2,11 @@
 
 ## Spring
 - [Spring Guides](https://github.com/spring-guides)
+- [Spring Cloud](https://github.com/spring-cloud)
 - [Pet Clinic](https://spring-petclinic.github.io/)
 - 
 
-##DevOps
+## DevOps
 - https://github.com/antonputra
 
 ## Kubernetes
