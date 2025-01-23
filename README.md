@@ -4,7 +4,7 @@
 ### Concurrency
 - [Proving Java Concurrency](https://github.com/oldratlee/fucking-java-concurrency)
 - [Javav Concurrency Series](https://www.baeldung.com/java-concurrency)
-- [Java Concurrency and Multithreading Tutorial by Jakob Jenkov](Java Concurrency and Multithreading Tutorial)
+- [Java Concurrency and Multithreading Tutorial by Jakob Jenkov](https://jenkov.com/tutorials/java-concurrency/index.html))
 - [Lock-free Algoruthms](https://www.1024cores.net/home/lock-free-algorithms)
 - [Lock-free Algoruthms - Introduction](https://news.ycombinator.com/item?id=35684232)
 
