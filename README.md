@@ -37,3 +37,6 @@
 - RefactorInsight
 - SpotBugs
 - StepSize
+
+##Ebooks
+- [RedHat Ebooks](https://developers.redhat.com/e-books/)
