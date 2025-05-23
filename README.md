@@ -32,6 +32,10 @@
 ## PHP
 - [Learn Laravel by Building a Medium Clone – Tutorial](https://www.youtube.com/watch?v=MG1kt_wiIz0)
 
+## CSS
+- [Flowbite](https://flowbite.com/)
+- [Tailwind](https://tailwindcss.com/)
+
 ## Tools
 - [Error Prone/Refaster](https://errorprone.info/index)
 
