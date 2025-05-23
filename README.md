@@ -23,7 +23,7 @@
 - https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/
 
 ## Kubernetes
--
+- [Complete Kubernetes Course - From BEGINNER to PRO](https://www.youtube.com/watch?v=2T86xAtR6Fo&t=189s&pp=0gcJCY0JAYcqIYzv)
 -
 
 ## JS
