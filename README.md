@@ -25,7 +25,9 @@
 
 ## JS
 - [Hapi JS](https://hapi.dev/)
-- 
+
+## PHP
+- [Learn Laravel by Building a Medium Clone – Tutorial](https://www.youtube.com/watch?v=MG1kt_wiIz0)
 
 ## Tools
 - [Error Prone/Refaster](https://errorprone.info/index)
@@ -38,5 +40,5 @@
 - SpotBugs
 - StepSize
 
-##Ebooks
+## Ebooks
 - [RedHat Ebooks](https://developers.redhat.com/e-books/)
