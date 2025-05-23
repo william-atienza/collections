@@ -12,6 +12,9 @@
 - [Spring Guides](https://github.com/spring-guides)
 - [Spring Cloud](https://github.com/spring-cloud)
 - [Pet Clinic](https://spring-petclinic.github.io/)
+
+## Security
+- [Demonstrating Proof of Possession (DPoP): OAuth2 security for FAPI 2.0 and open banking](https://tyk.io/blog/demonstrating-proof-of-possession-dpop-oauth2-security-for-fapi-2-0-and-open-banking/)
 - 
 
 ## DevOps
