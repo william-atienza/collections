@@ -31,6 +31,8 @@
 
 ## PHP
 - [Learn Laravel by Building a Medium Clone – Tutorial](https://www.youtube.com/watch?v=MG1kt_wiIz0)
+- https://herd.laravel.com/windows
+- https://phppot.com/php/php-curl-post/
 
 ## CSS
 - [Flowbite](https://flowbite.com/)
