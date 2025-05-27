@@ -21,6 +21,7 @@
 - https://github.com/antonputra
 - https://blog.devops.dev/how-to-create-a-mysql-instance-with-docker-compose-8de82228f1bd
 - https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/
+- [DevOps Playground (Cloud, Kubernetes, Docker, Linux, etc..](https://labs.iximiuz.com/)
 
 ## Kubernetes
 - [Complete Kubernetes Course - From BEGINNER to PRO](https://www.youtube.com/watch?v=2T86xAtR6Fo&t=189s&pp=0gcJCY0JAYcqIYzv)
