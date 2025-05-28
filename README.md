@@ -26,7 +26,7 @@
 
 ## Kubernetes
 - [Complete Kubernetes Course - From BEGINNER to PRO](https://www.youtube.com/watch?v=2T86xAtR6Fo&t=189s&pp=0gcJCY0JAYcqIYzv)
--
+- [k9s](https://k9scli.io/topics/commands/)
 
 ## JS
 - [Hapi JS](https://hapi.dev/)
