@@ -40,8 +40,12 @@
 - [Flowbite](https://flowbite.com/)
 - [Tailwind](https://tailwindcss.com/)
 
-## Tools
+## Refactoring Tools
 - [Error Prone/Refaster](https://errorprone.info/index)
+
+
+## Diagram
+- [Exaclidraw](https://excalidraw.com)
 
 ## IntelliJ Plugins
 - Sonarlint & SonarQube
