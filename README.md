@@ -21,8 +21,12 @@
 - https://github.com/antonputra
 - https://blog.devops.dev/how-to-create-a-mysql-instance-with-docker-compose-8de82228f1bd
 - https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/
-- [DevOps Playground (Cloud, Kubernetes, Docker, Linux, etc..](https://labs.iximiuz.com/)
 - [Keycloak](https://www.keycloak.org/server/containers)
+### Playground
+- [Iximiuz Labs (Cloud, Kubernetes, Docker, Linux, etc..](https://labs.iximiuz.com/)
+- [NextWork](https://learn.nextwork.org/)
+
+
 ### OpenObserve
 - https://github.com/openobserve/openobserve
 
