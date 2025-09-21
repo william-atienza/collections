@@ -53,6 +53,9 @@
 
 ## Refactoring Tools
 - [Error Prone/Refaster](https://errorprone.info/index)
+  
+## AI
+- [OpenWebUI](https://openwebui.com/)
 
 ## Diagram
 - [Exaclidraw](https://excalidraw.com)
