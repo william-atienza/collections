@@ -16,6 +16,7 @@
 
 ## Security
 - [Demonstrating Proof of Possession (DPoP): OAuth2 security for FAPI 2.0 and open banking](https://tyk.io/blog/demonstrating-proof-of-possession-dpop-oauth2-security-for-fapi-2-0-and-open-banking/)
+- [Open Source Penetration Testing Tool with OWASP ZAP](https://github.com/zaproxy/zaproxy)
 - 
 
 ## DevOps
