@@ -59,6 +59,7 @@
   
 ## AI
 - [OpenWebUI](https://openwebui.com/)
+- [Santander Bank AI](https://github.com/SantanderAI)
 
 ## Diagram
 - [Exaclidraw](https://excalidraw.com)
